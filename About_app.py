@@ -8,7 +8,7 @@ from PyQt4 import QtGui,QtCore
 from Ui_about_app import Ui_About
 
 _VERSION = "0.0.0"
-_URL = "<a href = ""https://github.com/puyilio>Github</a>"
+_URL = "<a href = ""https://github.com/puyilio/Application-for-PyBoard</a>"
 
 #-------------------------------------------------------------------------------
 class AboutWindow(QtGui.QDialog):
